@@ -5,12 +5,18 @@ repo: uptime-dashboard # The name of this repository
 sites:
   - name: Marketlend
     url: https://www.marketlend.com.au
+  - name: Tyndall Insurance
+    url: https://tyndall.insure    
   - name: UnLock
-    url: https://unlockb2b.com/
+    url: https://unlockb2b.com
   - name: UnLock Rewards
-    url: https://unlockrewards.com.au/
+    url: https://unlockrewards.com.au
   - name: Eezee Compare
-    url: https://www.eezee.compare/
+    url: https://www.eezee.compare
+  - name: Electricity Compare
+    url: http://electricity.compare
+  - name: Electricity Wizard
+    url: https://electricitywizard.com.au
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
