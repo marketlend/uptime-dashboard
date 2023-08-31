@@ -1,3 +1,15 @@
+# [📈 Live Status](https://marketlend.github.io/uptime-dashboard): <!--live status--> **🟩 All systems operational**
+
+This repository contains the open-source uptime monitor and status page for Marketlend's websites, powered by [Upptime](https://github.com/upptime/upptime).
+
+[![Uptime CI](https://github.com/marketlend/uptime-dashboard/workflows/Uptime%20CI/badge.svg)](https://github.com/marketlend/uptime-dashboard/actions?query=workflow%3A%22Uptime+CI%22)
+[![Response Time CI](https://github.com/marketlend/uptime-dashboard/workflows/Response%20Time%20CI/badge.svg)](https://github.com/marketlend/uptime-dashboard/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Graphs CI](https://github.com/marketlend/uptime-dashboard/workflows/Graphs%20CI/badge.svg)](https://github.com/marketlend/uptime-dashboard/actions?query=workflow%3A%22Graphs+CI%22)
+[![Static Site CI](https://github.com/marketlend/uptime-dashboard/workflows/Static%20Site%20CI/badge.svg)](https://github.com/marketlend/uptime-dashboard/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Summary CI](https://github.com/marketlend/uptime-dashboard/workflows/Summary%20CI/badge.svg)](https://github.com/marketlend/uptime-dashboard/actions?query=workflow%3A%22Summary+CI%22)
+
+<!--start: status pages-->
+
 [![Uptime CI](https://github.com/marketlend/uptime-dashboard/workflows/Uptime%20CI/badge.svg)](https://github.com/marketlend/uptime-dashboard/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/marketlend/uptime-dashboard/workflows/Response%20Time%20CI/badge.svg)](https://github.com/marketlend/uptime-dashboard/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/marketlend/uptime-dashboard/workflows/Graphs%20CI/badge.svg)](https://github.com/marketlend/uptime-dashboard/actions?query=workflow%3A%22Graphs+CI%22)
