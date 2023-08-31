@@ -10,7 +10,7 @@ sites:
   - name: UnLock
     url: https://unlockb2b.com
   - name: UnLock Portal
-    url: https://app.unlockb2b.com/admin/login   
+    url: https://app.unlockb2b.com/buyers/login   
   - name: UnLock Rewards
     url: https://unlockrewards.com.au
   - name: Eezee Compare
