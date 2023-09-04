@@ -95,20 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eezee.compare.ico",
     "slug": "eezee-compare",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1965,
     "timeDay": 2218,
     "timeWeek": 1965,
     "timeMonth": 1965,
     "timeYear": 1965,
-    "dailyMinutesDown": {
-      "2023-09-04": 0,
-      "2023-09-03": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Electricity Compare",
