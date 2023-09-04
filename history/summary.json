@@ -94,19 +94,20 @@
     "url": "https://www.eezee.compare",
     "icon": "https://icons.duckduckgo.com/ip3/www.eezee.compare.ico",
     "slug": "eezee-compare",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1891,
-    "timeDay": 1655,
-    "timeWeek": 1891,
-    "timeMonth": 1891,
-    "timeYear": 1891,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1965,
+    "timeDay": 2218,
+    "timeWeek": 1965,
+    "timeMonth": 1965,
+    "timeYear": 1965,
     "dailyMinutesDown": {
-      "2023-09-03": 1
+      "2023-09-04": 0,
+      "2023-09-03": 8
     }
   },
   {
