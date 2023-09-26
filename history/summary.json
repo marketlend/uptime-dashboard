@@ -58,18 +58,20 @@
     "url": "https://app.unlockb2b.com/buyers/login",
     "icon": "https://icons.duckduckgo.com/ip3/app.unlockb2b.com.ico",
     "slug": "un-lock-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 803,
-    "timeDay": 786,
-    "timeWeek": 831,
-    "timeMonth": 803,
-    "timeYear": 803,
-    "dailyMinutesDown": {}
+    "time": 799,
+    "timeDay": 743,
+    "timeWeek": 815,
+    "timeMonth": 799,
+    "timeYear": 799,
+    "dailyMinutesDown": {
+      "2023-09-26": 0
+    }
   },
   {
     "name": "UnLock Rewards",
