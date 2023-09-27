@@ -96,19 +96,19 @@
     "url": "https://www.eezee.compare",
     "icon": "https://icons.duckduckgo.com/ip3/www.eezee.compare.ico",
     "slug": "eezee-compare",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1829,
-    "timeDay": 1476,
-    "timeWeek": 1736,
-    "timeMonth": 1829,
-    "timeYear": 1829,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1825,
+    "timeDay": 1576,
+    "timeWeek": 1729,
+    "timeMonth": 1825,
+    "timeYear": 1825,
     "dailyMinutesDown": {
-      "2023-09-27": 1
+      "2023-09-27": 8
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "http://electricity.compare",
     "icon": "https://icons.duckduckgo.com/ip3/electricity.compare.ico",
     "slug": "electricity-compare",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 876,
-    "timeDay": 809,
-    "timeWeek": 916,
-    "timeMonth": 876,
-    "timeYear": 876,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 875,
+    "timeDay": 829,
+    "timeWeek": 908,
+    "timeMonth": 875,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 7
     }
   },
   {
