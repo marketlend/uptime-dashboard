@@ -1,7 +1,7 @@
 url: https://app.unlockb2b.com/buyers/login
-status: down
-code: 502
-responseTime: 624
-lastUpdated: 2023-09-27T05:57:45.329Z
+status: up
+code: 200
+responseTime: 772
+lastUpdated: 2023-09-27T06:40:04.886Z
 startTime: 2023-08-31T04:30:42.316Z
 generator: Upptime <https://github.com/upptime/upptime>
