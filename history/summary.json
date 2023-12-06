@@ -40,9 +40,9 @@
     "url": "https://unlockb2b.com",
     "icon": "https://icons.duckduckgo.com/ip3/unlockb2b.com.ico",
     "slug": "un-lock",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1727,
     "timeMonth": 1713,
     "timeYear": 1849,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-06": 0
+    }
   },
   {
     "name": "UnLock Portal",
