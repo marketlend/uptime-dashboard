@@ -22,9 +22,9 @@
     "url": "https://tyndall.insure",
     "icon": "https://icons.duckduckgo.com/ip3/tyndall.insure.ico",
     "slug": "tyndall-insurance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1885,
     "timeMonth": 2192,
     "timeYear": 2159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-21": 0
+    }
   },
   {
     "name": "UnLock",
