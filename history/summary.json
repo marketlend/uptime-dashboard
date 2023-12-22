@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 1005,
-    "timeWeek": 895,
+    "time": 952,
+    "timeDay": 999,
+    "timeWeek": 909,
     "timeMonth": 856,
-    "timeYear": 951,
+    "timeYear": 952,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "tyndall-insurance",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2172,
-    "timeDay": 2926,
-    "timeWeek": 2120,
-    "timeMonth": 2241,
+    "timeDay": 2943,
+    "timeWeek": 2121,
+    "timeMonth": 2246,
     "timeYear": 2172,
-    "dailyMinutesDown": {
-      "2023-12-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UnLock",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1823,
-    "timeDay": 1848,
-    "timeWeek": 1625,
-    "timeMonth": 1670,
+    "timeDay": 1788,
+    "timeWeek": 1624,
+    "timeMonth": 1674,
     "timeYear": 1823,
     "dailyMinutesDown": {}
   },
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 785,
-    "timeDay": 972,
-    "timeWeek": 842,
-    "timeMonth": 775,
-    "timeYear": 785,
+    "time": 786,
+    "timeDay": 950,
+    "timeWeek": 860,
+    "timeMonth": 783,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2023-09-27": 42
     }
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1198,
-    "timeDay": 1262,
-    "timeWeek": 1217,
-    "timeMonth": 1162,
-    "timeYear": 1198,
+    "time": 1201,
+    "timeDay": 1532,
+    "timeWeek": 1236,
+    "timeMonth": 1174,
+    "timeYear": 1201,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1822,
-    "timeDay": 1865,
-    "timeWeek": 1850,
-    "timeMonth": 1793,
-    "timeYear": 1822,
+    "time": 1823,
+    "timeDay": 1901,
+    "timeWeek": 1854,
+    "timeMonth": 1798,
+    "timeYear": 1823,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 924,
-    "timeWeek": 1025,
-    "timeMonth": 948,
-    "timeYear": 940,
+    "time": 941,
+    "timeDay": 1027,
+    "timeWeek": 1016,
+    "timeMonth": 949,
+    "timeYear": 941,
     "dailyMinutesDown": {}
   },
   {
@@ -140,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1298,
-    "timeDay": 1347,
-    "timeWeek": 1269,
-    "timeMonth": 1257,
-    "timeYear": 1298,
+    "time": 1301,
+    "timeDay": 1643,
+    "timeWeek": 1284,
+    "timeMonth": 1268,
+    "timeYear": 1301,
     "dailyMinutesDown": {}
   }
 ]
