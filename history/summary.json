@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 824,
-    "timeWeek": 895,
-    "timeMonth": 953,
-    "timeYear": 951,
+    "time": 950,
+    "timeDay": 659,
+    "timeWeek": 874,
+    "timeMonth": 944,
+    "timeYear": 950,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tyndall.insure.ico",
     "slug": "tyndall-insurance",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 2153,
-    "timeDay": 2405,
-    "timeWeek": 2084,
-    "timeMonth": 2133,
-    "timeYear": 2153,
-    "dailyMinutesDown": {
-      "2024-01-19": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2152,
+    "timeDay": 2428,
+    "timeWeek": 2106,
+    "timeMonth": 2126,
+    "timeYear": 2152,
+    "dailyMinutesDown": {}
   },
   {
     "name": "UnLock",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/unlockb2b.com.ico",
     "slug": "un-lock",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1797,
-    "timeDay": 1668,
-    "timeWeek": 1627,
-    "timeMonth": 1701,
-    "timeYear": 1797,
-    "dailyMinutesDown": {
-      "2024-01-19": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1795,
+    "timeDay": 1637,
+    "timeWeek": 1629,
+    "timeMonth": 1689,
+    "timeYear": 1795,
+    "dailyMinutesDown": {}
   },
   {
     "name": "UnLock Portal",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 793,
-    "timeDay": 679,
-    "timeWeek": 752,
-    "timeMonth": 835,
-    "timeYear": 793,
+    "time": 792,
+    "timeDay": 631,
+    "timeWeek": 748,
+    "timeMonth": 825,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2023-09-27": 42
     }
@@ -84,18 +80,16 @@
     "slug": "un-lock-rewards",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1232,
-    "timeDay": 1170,
-    "timeWeek": 1144,
-    "timeMonth": 1359,
-    "timeYear": 1232,
-    "dailyMinutesDown": {
-      "2024-01-19": 10
-    }
+    "time": 1230,
+    "timeDay": 1119,
+    "timeWeek": 1131,
+    "timeMonth": 1345,
+    "timeYear": 1230,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Eezee Compare",
@@ -108,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1826,
-    "timeDay": 1881,
-    "timeWeek": 1898,
-    "timeMonth": 1847,
-    "timeYear": 1826,
+    "time": 1825,
+    "timeDay": 1642,
+    "timeWeek": 1827,
+    "timeMonth": 1834,
+    "timeYear": 1825,
     "dailyMinutesDown": {}
   },
   {
@@ -127,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 937,
-    "timeDay": 713,
-    "timeWeek": 884,
-    "timeMonth": 930,
+    "timeDay": 963,
+    "timeWeek": 892,
+    "timeMonth": 925,
     "timeYear": 937,
     "dailyMinutesDown": {}
   },
@@ -144,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 1316,
-    "timeDay": 1075,
-    "timeWeek": 1254,
-    "timeMonth": 1387,
-    "timeYear": 1316,
+    "time": 1314,
+    "timeDay": 976,
+    "timeWeek": 1233,
+    "timeMonth": 1372,
+    "timeYear": 1314,
     "dailyMinutesDown": {
       "2024-01-08": 29
     }
