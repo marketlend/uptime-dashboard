@@ -22,19 +22,19 @@
     "url": "https://tyndall.insure",
     "icon": "https://icons.duckduckgo.com/ip3/tyndall.insure.ico",
     "slug": "tyndall-insurance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2142,
-    "timeDay": 1935,
-    "timeWeek": 1961,
-    "timeMonth": 2025,
-    "timeYear": 2142,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 2143,
+    "timeDay": 2103,
+    "timeWeek": 1995,
+    "timeMonth": 2032,
+    "timeYear": 2143,
     "dailyMinutesDown": {
-      "2024-01-24": 1
+      "2024-01-24": 11
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://unlockb2b.com",
     "icon": "https://icons.duckduckgo.com/ip3/unlockb2b.com.ico",
     "slug": "un-lock",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1789,
-    "timeDay": 1792,
-    "timeWeek": 1557,
-    "timeMonth": 1666,
-    "timeYear": 1789,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1792,
+    "timeDay": 2088,
+    "timeWeek": 1649,
+    "timeMonth": 1688,
+    "timeYear": 1792,
     "dailyMinutesDown": {
-      "2024-01-24": 1
+      "2024-01-24": 11
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://unlockrewards.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/unlockrewards.com.au.ico",
     "slug": "un-lock-rewards",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1226,
-    "timeDay": 1171,
-    "timeWeek": 1057,
+    "timeDay": 1243,
+    "timeWeek": 1085,
     "timeMonth": 1323,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2024-01-24": 0
+      "2024-01-24": 10
     }
   },
   {
