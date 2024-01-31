@@ -22,18 +22,20 @@
     "url": "https://tyndall.insure",
     "icon": "https://icons.duckduckgo.com/ip3/tyndall.insure.ico",
     "slug": "tyndall-insurance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2139,
-    "timeDay": 2112,
-    "timeWeek": 2090,
-    "timeMonth": 2019,
-    "timeYear": 2139,
-    "dailyMinutesDown": {}
+    "time": 2133,
+    "timeDay": 1609,
+    "timeWeek": 1981,
+    "timeMonth": 1992,
+    "timeYear": 2133,
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "UnLock",
