@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 899,
-    "timeWeek": 865,
-    "timeMonth": 915,
-    "timeYear": 945,
+    "time": 944,
+    "timeDay": 918,
+    "timeWeek": 853,
+    "timeMonth": 914,
+    "timeYear": 944,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "tyndall-insurance",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2153,
-    "timeDay": 2693,
-    "timeWeek": 2311,
+    "time": 2154,
+    "timeDay": 2768,
+    "timeWeek": 2271,
     "timeMonth": 2092,
-    "timeYear": 2153,
-    "dailyMinutesDown": {
-      "2024-01-31": 11
-    }
+    "timeYear": 2154,
+    "dailyMinutesDown": {}
   },
   {
     "name": "UnLock",
@@ -44,18 +42,16 @@
     "slug": "un-lock",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1788,
-    "timeDay": 1687,
-    "timeWeek": 1712,
+    "timeDay": 1702,
+    "timeWeek": 1709,
     "timeMonth": 1670,
     "timeYear": 1788,
-    "dailyMinutesDown": {
-      "2024-01-31": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UnLock Portal",
@@ -69,8 +65,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 792,
-    "timeDay": 863,
-    "timeWeek": 773,
+    "timeDay": 890,
+    "timeWeek": 775,
     "timeMonth": 788,
     "timeYear": 792,
     "dailyMinutesDown": {
@@ -85,18 +81,16 @@
     "slug": "un-lock-rewards",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1226,
-    "timeDay": 1288,
-    "timeWeek": 1221,
-    "timeMonth": 1290,
-    "timeYear": 1226,
-    "dailyMinutesDown": {
-      "2024-01-31": 10
-    }
+    "time": 1227,
+    "timeDay": 1349,
+    "timeWeek": 1229,
+    "timeMonth": 1293,
+    "timeYear": 1227,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Eezee Compare",
@@ -109,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1850,
-    "timeDay": 1762,
-    "timeWeek": 1879,
-    "timeMonth": 1965,
-    "timeYear": 1850,
+    "time": 1852,
+    "timeDay": 2203,
+    "timeWeek": 1916,
+    "timeMonth": 1974,
+    "timeYear": 1852,
     "dailyMinutesDown": {}
   },
   {
@@ -129,7 +123,7 @@
     "uptimeYear": "100.00%",
     "time": 937,
     "timeDay": 961,
-    "timeWeek": 957,
+    "timeWeek": 939,
     "timeMonth": 918,
     "timeYear": 937,
     "dailyMinutesDown": {}
@@ -145,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 1316,
-    "timeDay": 1494,
-    "timeWeek": 1349,
-    "timeMonth": 1346,
-    "timeYear": 1316,
+    "time": 1317,
+    "timeDay": 1501,
+    "timeWeek": 1351,
+    "timeMonth": 1334,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2024-01-08": 29
     }
