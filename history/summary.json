@@ -24,7 +24,7 @@
     "slug": "tyndall-insurance",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1881,
     "timeMonth": 2060,
     "timeYear": 2143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-08": 0
+    }
   },
   {
     "name": "UnLock",
@@ -81,18 +83,16 @@
     "slug": "un-lock-rewards",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1223,
     "timeDay": 1349,
     "timeWeek": 1136,
     "timeMonth": 1168,
     "timeYear": 1223,
-    "dailyMinutesDown": {
-      "2024-02-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Eezee Compare",
