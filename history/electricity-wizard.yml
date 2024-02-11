@@ -1,7 +1,7 @@
 url: https://electricitywizard.com.au
-status: up
-code: 200
-responseTime: 1346
-lastUpdated: 2024-02-10T23:01:29.758Z
+status: down
+code: 500
+responseTime: 810
+lastUpdated: 2024-02-11T19:04:56.108Z
 startTime: 2023-08-31T04:06:45.501Z
 generator: Upptime <https://github.com/upptime/upptime>
