@@ -22,9 +22,9 @@
     "url": "https://tyndall.insure",
     "icon": "https://icons.duckduckgo.com/ip3/tyndall.insure.ico",
     "slug": "tyndall-insurance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 2450,
     "timeYear": 2214,
     "dailyMinutesDown": {
+      "2024-02-14": 0,
       "2024-02-08": 20
     }
   },
