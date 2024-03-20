@@ -22,10 +22,10 @@
     "url": "https://tyndall.insure",
     "icon": "https://icons.duckduckgo.com/ip3/tyndall.insure.ico",
     "slug": "tyndall-insurance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2191,
@@ -34,6 +34,7 @@
     "timeMonth": 1996,
     "timeYear": 2191,
     "dailyMinutesDown": {
+      "2024-03-20": 1,
       "2024-02-08": 20
     }
   },
@@ -81,9 +82,9 @@
     "url": "https://unlockrewards.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/unlockrewards.com.au.ico",
     "slug": "un-lock-rewards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +93,9 @@
     "timeWeek": 1118,
     "timeMonth": 1128,
     "timeYear": 1205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 0
+    }
   },
   {
     "name": "Eezee Compare",
