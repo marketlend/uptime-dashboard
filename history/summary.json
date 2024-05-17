@@ -81,19 +81,19 @@
     "url": "https://unlockrewards.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/unlockrewards.com.au.ico",
     "slug": "un-lock-rewards",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1227,
-    "timeDay": 1467,
-    "timeWeek": 1225,
-    "timeMonth": 1316,
+    "timeDay": 1384,
+    "timeWeek": 1224,
+    "timeMonth": 1313,
     "timeYear": 1227,
     "dailyMinutesDown": {
-      "2024-05-17": 0
+      "2024-05-17": 11
     }
   },
   {
