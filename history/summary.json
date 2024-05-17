@@ -42,18 +42,20 @@
     "url": "https://unlockb2b.com",
     "icon": "https://icons.duckduckgo.com/ip3/unlockb2b.com.ico",
     "slug": "un-lock",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1729,
-    "timeDay": 1803,
-    "timeWeek": 1635,
-    "timeMonth": 1664,
+    "timeDay": 1715,
+    "timeWeek": 1634,
+    "timeMonth": 1663,
     "timeYear": 1729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-17": 0
+    }
   },
   {
     "name": "UnLock Portal",
@@ -83,18 +85,16 @@
     "slug": "un-lock-rewards",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1227,
     "timeDay": 1384,
     "timeWeek": 1224,
     "timeMonth": 1313,
     "timeYear": 1227,
-    "dailyMinutesDown": {
-      "2024-05-17": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Eezee Compare",
