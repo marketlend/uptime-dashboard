@@ -81,9 +81,9 @@
     "url": "https://unlockrewards.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/unlockrewards.com.au.ico",
     "slug": "un-lock-rewards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +92,9 @@
     "timeWeek": 1221,
     "timeMonth": 1177,
     "timeYear": 1220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   },
   {
     "name": "Eezee Compare",
