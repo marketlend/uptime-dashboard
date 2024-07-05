@@ -22,18 +22,19 @@
     "url": "https://tyndall.insure",
     "icon": "https://icons.duckduckgo.com/ip3/tyndall.insure.ico",
     "slug": "tyndall-insurance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2022,
     "timeDay": 1264,
-    "timeWeek": 1347,
+    "timeWeek": 1325,
     "timeMonth": 1346,
     "timeYear": 2022,
     "dailyMinutesDown": {
+      "2024-07-05": 1,
       "2024-02-08": 20
     }
   },
@@ -42,18 +43,20 @@
     "url": "https://unlockb2b.com",
     "icon": "https://icons.duckduckgo.com/ip3/unlockb2b.com.ico",
     "slug": "un-lock",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1710,
     "timeDay": 1408,
-    "timeWeek": 1597,
+    "timeWeek": 1577,
     "timeMonth": 1644,
     "timeYear": 1710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-05": 1
+    }
   },
   {
     "name": "UnLock Portal",
@@ -81,18 +84,20 @@
     "url": "https://unlockrewards.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/unlockrewards.com.au.ico",
     "slug": "un-lock-rewards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1222,
     "timeDay": 1013,
-    "timeWeek": 1190,
+    "timeWeek": 1183,
     "timeMonth": 1226,
     "timeYear": 1222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-05": 0
+    }
   },
   {
     "name": "Eezee Compare",
