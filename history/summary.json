@@ -101,9 +101,9 @@
     "slug": "eezee-compare",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1853,
     "timeDay": 1948,
@@ -111,7 +111,7 @@
     "timeMonth": 1850,
     "timeYear": 1853,
     "dailyMinutesDown": {
-      "2024-08-07": 39
+      "2024-08-07": 47
     }
   },
   {
@@ -119,9 +119,9 @@
     "url": "http://electricity.compare",
     "icon": "https://icons.duckduckgo.com/ip3/electricity.compare.ico",
     "slug": "electricity-compare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.35%",
+    "uptimeDay": "97.34%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
