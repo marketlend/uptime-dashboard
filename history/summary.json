@@ -99,19 +99,19 @@
     "url": "https://www.eezee.compare",
     "icon": "https://icons.duckduckgo.com/ip3/www.eezee.compare.ico",
     "slug": "eezee-compare",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 1853,
-    "timeDay": 1948,
-    "timeWeek": 1842,
-    "timeMonth": 1850,
-    "timeYear": 1853,
+    "time": 1854,
+    "timeDay": 2080,
+    "timeWeek": 1888,
+    "timeMonth": 1862,
+    "timeYear": 1854,
     "dailyMinutesDown": {
-      "2024-08-07": 47
+      "2024-08-07": 68
     }
   },
   {
@@ -119,19 +119,19 @@
     "url": "http://electricity.compare",
     "icon": "https://icons.duckduckgo.com/ip3/electricity.compare.ico",
     "slug": "electricity-compare",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 953,
-    "timeDay": 3015,
-    "timeWeek": 1503,
-    "timeMonth": 1078,
+    "timeDay": 2300,
+    "timeWeek": 1432,
+    "timeMonth": 1071,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2024-08-07": 38
+      "2024-08-07": 59
     }
   },
   {
