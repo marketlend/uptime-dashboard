@@ -31,7 +31,7 @@
     "time": 1950,
     "timeDay": 1625,
     "timeWeek": 1444,
-    "timeMonth": 1426,
+    "timeMonth": 1429,
     "timeYear": 1950,
     "dailyMinutesDown": {
       "2024-02-08": 20
@@ -51,7 +51,7 @@
     "time": 1706,
     "timeDay": 1832,
     "timeWeek": 1841,
-    "timeMonth": 1693,
+    "timeMonth": 1698,
     "timeYear": 1706,
     "dailyMinutesDown": {}
   },
@@ -90,7 +90,7 @@
     "time": 1219,
     "timeDay": 1286,
     "timeWeek": 1235,
-    "timeMonth": 1192,
+    "timeMonth": 1197,
     "timeYear": 1219,
     "dailyMinutesDown": {}
   },
@@ -99,10 +99,10 @@
     "url": "https://www.eezee.compare",
     "icon": "https://icons.duckduckgo.com/ip3/www.eezee.compare.ico",
     "slug": "eezee-compare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1853,
@@ -110,16 +110,18 @@
     "timeWeek": 1842,
     "timeMonth": 1850,
     "timeYear": 1853,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 1
+    }
   },
   {
     "name": "Electricity Compare",
     "url": "http://electricity.compare",
     "icon": "https://icons.duckduckgo.com/ip3/electricity.compare.ico",
     "slug": "electricity-compare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,7 +130,9 @@
     "timeWeek": 1011,
     "timeMonth": 949,
     "timeYear": 942,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 0
+    }
   },
   {
     "name": "Electricity Wizard",
