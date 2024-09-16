@@ -42,19 +42,19 @@
     "url": "https://unlockb2b.com",
     "icon": "https://icons.duckduckgo.com/ip3/unlockb2b.com.ico",
     "slug": "un-lock",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1715,
-    "timeDay": 1630,
-    "timeWeek": 1615,
-    "timeMonth": 1780,
+    "timeDay": 1648,
+    "timeWeek": 1621,
+    "timeMonth": 1776,
     "timeYear": 1704,
     "dailyMinutesDown": {
-      "2024-09-16": 0
+      "2024-09-16": 10
     }
   },
   {
