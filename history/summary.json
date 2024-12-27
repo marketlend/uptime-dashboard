@@ -24,9 +24,9 @@
     "slug": "tyndall-insurance",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1826,
     "timeDay": 1679,
@@ -34,7 +34,6 @@
     "timeMonth": 1681,
     "timeYear": 1747,
     "dailyMinutesDown": {
-      "2024-12-26": 8,
       "2024-11-07": 37,
       "2024-09-18": 32,
       "2024-02-08": 20
@@ -47,9 +46,9 @@
     "slug": "un-lock",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1697,
     "timeDay": 1476,
@@ -57,7 +56,6 @@
     "timeMonth": 1618,
     "timeYear": 1661,
     "dailyMinutesDown": {
-      "2024-12-26": 7,
       "2024-11-07": 37,
       "2024-09-18": 31
     }
@@ -89,9 +87,9 @@
     "slug": "un-lock-rewards",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1215,
     "timeDay": 1039,
@@ -99,7 +97,6 @@
     "timeMonth": 1144,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2024-12-26": 7,
       "2024-11-07": 36,
       "2024-09-18": 31,
       "2024-08-15": 75
