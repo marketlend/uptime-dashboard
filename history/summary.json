@@ -22,10 +22,10 @@
     "url": "https://tyndall.insure",
     "icon": "https://icons.duckduckgo.com/ip3/tyndall.insure.ico",
     "slug": "tyndall-insurance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1838,
@@ -34,6 +34,7 @@
     "timeMonth": 1672,
     "timeYear": 1737,
     "dailyMinutesDown": {
+      "2025-01-09": 1,
       "2024-11-07": 37,
       "2024-09-18": 32,
       "2024-02-08": 20
@@ -44,10 +45,10 @@
     "url": "https://unlockb2b.com",
     "icon": "https://icons.duckduckgo.com/ip3/unlockb2b.com.ico",
     "slug": "un-lock",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1695,
@@ -56,6 +57,7 @@
     "timeMonth": 1619,
     "timeYear": 1660,
     "dailyMinutesDown": {
+      "2025-01-09": 1,
       "2024-11-07": 37,
       "2024-09-18": 31
     }
@@ -85,9 +87,9 @@
     "url": "https://unlockrewards.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/unlockrewards.com.au.ico",
     "slug": "un-lock-rewards",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -97,6 +99,7 @@
     "timeMonth": 1158,
     "timeYear": 1209,
     "dailyMinutesDown": {
+      "2025-01-09": 0,
       "2024-11-07": 36,
       "2024-09-18": 31,
       "2024-08-15": 75
@@ -154,7 +157,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1333,
-    "timeDay": 1636,
+    "timeDay": 2106,
     "timeWeek": 1834,
     "timeMonth": 1669,
     "timeYear": 1337,
