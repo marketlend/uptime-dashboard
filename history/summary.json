@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1829,
-    "timeDay": 1713,
-    "timeWeek": 1709,
+    "timeDay": 1538,
+    "timeWeek": 1755,
     "timeMonth": 1664,
     "timeYear": 1718,
     "dailyMinutesDown": {
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1691,
-    "timeDay": 1583,
-    "timeWeek": 1615,
+    "timeDay": 1663,
+    "timeWeek": 1654,
     "timeMonth": 1606,
     "timeYear": 1655,
     "dailyMinutesDown": {
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1214,
-    "timeDay": 1068,
-    "timeWeek": 1204,
+    "timeDay": 1158,
+    "timeWeek": 1205,
     "timeMonth": 1193,
     "timeYear": 1210,
     "dailyMinutesDown": {
@@ -147,9 +147,9 @@
     "url": "https://electricitywizard.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/electricitywizard.com.au.ico",
     "slug": "electricity-wizard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -159,6 +159,7 @@
     "timeMonth": 2090,
     "timeYear": 1389,
     "dailyMinutesDown": {
+      "2025-01-25": 0,
       "2025-01-21": 20,
       "2024-11-11": 22
     }
