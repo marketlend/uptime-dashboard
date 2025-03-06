@@ -150,18 +150,19 @@
     "url": "https://electricitywizard.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/electricitywizard.com.au.ico",
     "slug": "electricity-wizard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1441,
+    "time": 1442,
     "timeDay": 1463,
     "timeWeek": 3310,
     "timeMonth": 2154,
     "timeYear": 1483,
     "dailyMinutesDown": {
+      "2025-03-06": 0,
       "2025-01-21": 20,
       "2024-11-11": 22
     }
